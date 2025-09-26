@@ -1,2 +1,1 @@
-# mtc-repo-backend
-Repository for python code for MTC
+This is a sample dev python file for the backend repository.
